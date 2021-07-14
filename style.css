@@ -82,6 +82,14 @@
 .sparrow{
     right: 3px;
 }
+.hint{
+  position: absolute;
+  text-align: center;
+  padding: 5px;
+  top: 8px;
+  left: 20px;
+  font-size: 13px;
+}
 /*------ footer--------- */
 .gray{
     background-color: #ccc;
